@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+youtube/youtube/BuildConfig.java
+ youtube.youtube.BuildConfig
+youtube/youtube/MainActivity.java
+ youtube.youtube.MainActivity

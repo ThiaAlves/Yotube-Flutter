@@ -1,0 +1,4 @@
+#Sat Jun 19 21:59:01 BRT 2021
+base.0=/home/thiago/Área de Trabalho/projetos Android/youtube/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
